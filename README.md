@@ -22,17 +22,20 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
    * 100% self/user funded - no advertisers to avoid conflicts of interest
 
 2. Requirements
-   - [ ] Code of Governance that all admins are to abide by and be held accountable to, including:
+   - [ ] Admin Code of Governance that all admins are to abide by and be held accountable to, including:
     <br> * decision making/voting policy
-    <br> * user communication policy, randomly selected focus group participants (from pre-selected larger/suitably experienced pool), 
-    <br> * apply ToS to all users equally
+    <br> * user communication policy - no Discord
+    <br> * randomly selected focus group participants (from pre-selected larger/suitably experienced pool)
+    <br> * apply ToS to all users equally - no favouritism
+    <br> * no shadowbanning, default categories, manipulation of user feeds - tags to rplace categories (similar to Steam)
+    <br> * admin partcipation in user communities
     <br> * 
     <br> *
-    <br> *
    - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
-   - [ ] User ToS - breach of policy, 3 strikes? (can include UI?), appeals process
+   - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include UI?), appeals process
 
 ### 
+
 
 ###
 
