@@ -4,11 +4,11 @@ The purpose of this document is to clearly identify:
 
 * [Objective](https://github.com/CircusMind/Dd/blob/main/README.md#objective)
 * [Governance](https://github.com/CircusMind/Dd/blob/main/README.md#governance)
-* [Code]()
-* [UX]()
+* [Code](https://github.com/CircusMind/Dd/blob/main/README.md#code)
+* [UX](https://github.com/CircusMind/Dd/blob/main/README.md#ux)
 * [Finance and Budgeting]()
-* [Legal]()
-* [Other]()
+* [Legal](https://github.com/CircusMind/Dd/blob/main/README.md#legal)
+* [Other](https://github.com/CircusMind/Dd/blob/main/README.md#other)
 
 ### Objective
 
