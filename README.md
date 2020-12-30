@@ -5,16 +5,18 @@ The purpose of this document is to clearly identify:
 * Objective
 * Governance
 * Code
-* UI
+* UX
 * Finance and Budgeting
 * Legal
 * Other
 
 ### Objective
-Establish a community founded on the recognition that Freedom of Speech (& Freedom of Assembly?) are unalienable rights bestowed by God or the Universe.
+
+Establish a community founded on the recognition that Freedom of Speech (& Freedom of Assembly?) are unalienable rights bestowed by God or the Universe/Nature.
 
 
 ### Governance
+
 Comprised of (odd no.) admins of equal standing - one person, one vote in all areas of decision making.
 
 1. Underpinning Principles
@@ -29,7 +31,6 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
    - [ ] Admin Code of Governance that all admins are to abide by and be held accountable to, including:
      * decision making/voting policy
      * user communication policy - no Discord
-     * randomly selected focus group participants (from pre-selected larger/suitably experienced pool)
      * apply ToS to all users equally - no favouritism
      * no shadowbanning, default categories, manipulation of user feeds - tags to rplace categories (similar to Steam)
      * admin partcipation in user communities
@@ -37,12 +38,24 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
    - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include UI?), appeals process
    
 ### Code
-   * fork from Ruqqus open source on github
-     * by Ayanami
-   * User contributions
-   
-  
 
+1. Fork from Ruqqus open source on github
+     * by Ayanami
+
+2. User contributions
+
+3. Focus groups to be randomly selected from a larger pool of users? Something about not seeking feedback from the exact same users every time. (Not sure if this fits here.)
+
+### UX
+1. Allow submission of links and text
+2. Allow commenting on submissions
+3. Allow commenting on comments
+4. Allow up/down voting on submissions and comments
+5. Sort submissions by new, hot, etc
+6. Allow users to delete their own content
+7. Allow users to report rule-breaking submissions and comments
+8. Direct image upload to comments
+9. Video embed to posts
 
 ### Finance and Budgeting
 
@@ -51,7 +64,8 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
      * Subscribestar
      * bitcoin
      * crypto
-   * Other - invite founding members to invest? - incentives TBC
+   * Other - invite "founding members" to invest? - incentives? - possibly limit number premium memberships to create exclusivity/charge a higher price
+   * 
    
 2. Operating Costs - [sample budget](https://github.com/ruqqus/ruqqus/blob/master/docs/contribute/design.md)
 
@@ -62,5 +76,10 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
 
 
 ### Legal
+
+* 
+*
+* 
+
 
 
