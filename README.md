@@ -2,7 +2,7 @@
 
 The purpose of this document is to clearly identify:
 
-* Objective
+* [Objective]()
 * Governance
 * Code
 * UX
