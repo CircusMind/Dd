@@ -3,7 +3,7 @@
 The purpose of this document is to clearly identify:
 
 * [Objective](https://github.com/CircusMind/Dd/blob/main/README.md#objective)
-* [Governance]()
+* [Governance](https://github.com/CircusMind/Dd/blob/main/README.md#governance)
 * [Code]()
 * [UX]()
 * [Finance and Budgeting]()
