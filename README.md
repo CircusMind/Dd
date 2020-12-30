@@ -4,15 +4,18 @@ The purpose of this document is to clearly identify:
 
 * Objective
 * Governance
+* Code
+* UI
 * Finance and Budgeting
 * Legal
-* 
+* Other
 
 ### Objective
 Establish a community founded on the recognition that Freedom of Speech (& Freedom of Assembly?) are unalienable rights bestowed by God or the Universe.
 
+
 ### Governance
-Comprised of (odd no.) admins of equal standing - one person, one vote in all matters of decision making.
+Comprised of (odd no.) admins of equal standing - one person, one vote in all areas of decision making.
 
 1. Underpinning Principles
    * Lassiez Faire administration - minimal intervention only as a last resort
@@ -32,6 +35,14 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
      * admin partcipation in user communities
    - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
    - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include UI?), appeals process
+   
+### Code
+   * fork from Ruqqus open source on github
+     * by Ayanami
+   * User contributions
+   
+  
+
 
 ### Finance and Budgeting
 
@@ -48,6 +59,7 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
 | ------------- | ------------- |
 | Site Maintenance  |  $400  |
 | Marketing  | $600  |
+
 
 ### Legal
 
