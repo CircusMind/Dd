@@ -6,7 +6,7 @@ The purpose of this document is to clearly identify:
 * [Governance](https://github.com/CircusMind/Dd/blob/main/README.md#governance)
 * [Code](https://github.com/CircusMind/Dd/blob/main/README.md#code)
 * [UX](https://github.com/CircusMind/Dd/blob/main/README.md#ux)
-* [Finance and Budgeting]()
+* [Finance and Budgeting](https://github.com/CircusMind/Dd/blob/main/README.md#finance-and-budgeting)
 * [Legal](https://github.com/CircusMind/Dd/blob/main/README.md#legal)
 * [Other](https://github.com/CircusMind/Dd/blob/main/README.md#other)
 
@@ -65,7 +65,6 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
      * bitcoin
      * crypto
    * Other - invite "founding members" to invest? - incentives? - possibly limit number premium memberships to create exclusivity/charge a higher price
-   * 
    
 2. Operating Costs - [sample budget](https://github.com/ruqqus/ruqqus/blob/master/docs/contribute/design.md)
 
@@ -74,12 +73,17 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
 | Site Maintenance  |  $400  |
 | Marketing  | $600  |
 
+3. Target for launch
+* 6 months operating costs?
+
 
 ### Legal
 
 * 
+
+### Other
+
 *
-* 
 
 
 
