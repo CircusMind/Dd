@@ -2,12 +2,12 @@
 
 The purpose of this document is to clearly identify:
 
-* Intention
+* Objective
 * Governance
-* Project requirements to meet those goals
+* Project requirements
 * Project specifications to meet those requirements
 
-### Intention
+### Objective
 Establish a community founded on the recognition that Freedom of Speech (& Freedom of Assembly?) are unalienable rights bestowed by God or the Universe.
 
 ### Governance
@@ -17,13 +17,20 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
    * Lassiez Faire administration - minimal intervention only as a last resort
    * Anti-censorship
    * Pro-transparency and accountability
+   * Open communication
+   * Impartiality
+   * 100% self/user funded - no advertisers to avoid conflicts of interest
 
 2. Requirements
-- [ ] Code of Governance that all admins are to abide by and be held accountable to
-- [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
-- [ ] User ToS
-
-#### 
+   - [ ] Code of Governance that all admins are to abide by and be held accountable to, including:
+         * decision making/voting policy
+         * user communication policy, randomly selected focus group participants (from pre-selected larger/suitably experienced pool), 
+         * apply ToS to all users equally
+         * 
+         *
+         *
+   - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
+   - [ ] User ToS - breach of policy, 3 strikes? (can include UI?), appeals process
 
 ### 
 
