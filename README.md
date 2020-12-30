@@ -23,12 +23,12 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
 
 2. Requirements
    - [ ] Code of Governance that all admins are to abide by and be held accountable to, including:
-         * decision making/voting policy
-         * user communication policy, randomly selected focus group participants (from pre-selected larger/suitably experienced pool), 
-         * apply ToS to all users equally
-         * 
-         *
-         *
+    <br> * decision making/voting policy
+    <br> * user communication policy, randomly selected focus group participants (from pre-selected larger/suitably experienced pool), 
+    <br> * apply ToS to all users equally
+    <br> * 
+    <br> *
+    <br> *
    - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
    - [ ] User ToS - breach of policy, 3 strikes? (can include UI?), appeals process
 
