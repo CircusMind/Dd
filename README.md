@@ -18,15 +18,10 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
    * Anti-censorship
    * Pro-transparency and accountability
 
-2. Principles
-   * 
-   * 
-   * 
-
-3. Requirements
+2. Requirements
 - [ ] Code of Governance that all admins are to abide by and be held accountable to
-- [ ] 
-- [ ] 
+- [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
+- [ ] User ToS
 
 #### 
 
