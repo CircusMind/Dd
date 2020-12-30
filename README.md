@@ -1,11 +1,11 @@
-# DD
+# Dewdrop
 
 The purpose of this document is to clearly identify:
 
 * Objective
 * Governance
-* Project requirements
-* Project specifications to meet those requirements
+* Finance and Budgeting
+* 
 
 ### Objective
 Establish a community founded on the recognition that Freedom of Speech (& Freedom of Assembly?) are unalienable rights bestowed by God or the Universe.
@@ -34,14 +34,9 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
    - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
    - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include UI?), appeals process
 
-### 
+### Finance and Budgeting
 
-
-###
-
-
-
-| First Header  | Second Header |
+|      ITEM     |    MONTHLY    |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Site Maintenance  |  $400  |
+| Marketing  | $600  |
