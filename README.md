@@ -34,6 +34,16 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
 
 ### Finance and Budgeting
 
+1. Funding sources
+   * Crowd sourced
+     * Subscribestar
+     * bitcoin
+     * crypto
+   * Other - invite founding members to invest? - incentives TBC
+   
+2. Operating Costs - [sample budget](https://github.com/ruqqus/ruqqus/blob/master/docs/contribute/design.md)
+
+
 | ITEM     |    MONTHLY    |
 | ------------- | ------------- |
 | Site Maintenance  |  $400  |
