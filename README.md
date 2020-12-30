@@ -2,13 +2,13 @@
 
 The purpose of this document is to clearly identify:
 
-* [Objective]()
-* Governance
-* Code
-* UX
-* Finance and Budgeting
-* Legal
-* Other
+* [Objective](https://github.com/CircusMind/Dd/blob/main/README.md#objective)
+* [Governance]()
+* [Code]()
+* [UX]()
+* [Finance and Budgeting]()
+* [Legal]()
+* [Other]()
 
 ### Objective
 
