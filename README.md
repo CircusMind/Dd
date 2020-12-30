@@ -5,6 +5,7 @@ The purpose of this document is to clearly identify:
 * Objective
 * Governance
 * Finance and Budgeting
+* Legal
 * 
 
 ### Objective
@@ -23,12 +24,12 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
 
 2. Requirements
    - [ ] Admin Code of Governance that all admins are to abide by and be held accountable to, including:
-    * decision making/voting policy
-    * user communication policy - no Discord
-    * randomly selected focus group participants (from pre-selected larger/suitably experienced pool)
-    * apply ToS to all users equally - no favouritism
-    * no shadowbanning, default categories, manipulation of user feeds - tags to rplace categories (similar to Steam)
-    * admin partcipation in user communities
+     * decision making/voting policy
+     * user communication policy - no Discord
+     * randomly selected focus group participants (from pre-selected larger/suitably experienced pool)
+     * apply ToS to all users equally - no favouritism
+     * no shadowbanning, default categories, manipulation of user feeds - tags to rplace categories (similar to Steam)
+     * admin partcipation in user communities
    - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
    - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include UI?), appeals process
 
@@ -43,8 +44,11 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ma
    
 2. Operating Costs - [sample budget](https://github.com/ruqqus/ruqqus/blob/master/docs/contribute/design.md)
 
-
 | ITEM     |    MONTHLY    |
 | ------------- | ------------- |
 | Site Maintenance  |  $400  |
 | Marketing  | $600  |
+
+### Legal
+
+
