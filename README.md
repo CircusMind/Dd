@@ -7,6 +7,7 @@ The purpose of this document is to clearly identify:
 * [Code](https://github.com/CircusMind/Dd/blob/main/README.md#code)
 * [UX](https://github.com/CircusMind/Dd/blob/main/README.md#ux)
 * [Finance and Budgeting](https://github.com/CircusMind/Dd/blob/main/README.md#finance-and-budgeting)
+* [Marketing](https://github.com/CircusMind/Dd/blob/main/README.md#marketing)
 * [Legal](https://github.com/CircusMind/Dd/blob/main/README.md#legal)
 * [Other](https://github.com/CircusMind/Dd/blob/main/README.md#other)
 
@@ -35,7 +36,7 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
      * no shadowbanning, default categories, manipulation of user feeds - tags to rplace categories (similar to Steam)
      * admin partcipation in user communities
    - [ ] Mod ToS - clearly defined responsibilities and conditions for exercising of Mod powers
-   - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include UI?), appeals process
+   - [ ] User ToS - no brigading, process for breach of policy - 3 strikes? (can include user profile?), appeals process
    
 ### Code
 
@@ -76,6 +77,10 @@ Comprised of (odd no.) admins of equal standing - one person, one vote in all ar
 3. Target for launch
 * 6 months operating costs?
 
+
+### Marketing
+
+*
 
 ### Legal
 
